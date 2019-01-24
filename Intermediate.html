@@ -8,6 +8,9 @@
 	<style>
 	.wrapper{
 		display: flex;
+		flex-direction: row;
+	}
+	#section{
 	}
 	.wrapper div{
 		margin: 5px;
@@ -19,12 +22,12 @@
 	<body>
 		<h1>Employee Management of Twelve Company</h1>
 		<div class ="wrapper">	
-			<div id="ids"></div>
-			<div id ="firstname"></div>
-			<div id ="lastname"></div>
-			<div id ="email"></div>
-			<div id ="jobtitle"></div>
-			<div id ="salary"></div>
+		<div id="ids"></div>
+		<div id ="firstname"></div>
+		<div id ="lastname"></div>
+		<div id ="email"></div>
+		<div id ="jobtitle"></div>
+		<div id ="salary"></div>
 		</div>
 
 	<script src="Intermediate.json"></script>
@@ -46,8 +49,10 @@
 		document.getElementById("jobtitle").innerHTML += display.Job_Title + "<br>" + "<hr>";
 
 		document.getElementById("salary").innerHTML += display.Salary + "<br>" + "<hr>";
-		}
+		
+	/*	document.getElementsByClassName('wrapper')[0].innerHTML += "<div id ='section'>" + display.Unique_ID + "<br> <hr>" +  display.First_Name + "<br> <hr>" + display.Last_Name + "<br> <hr>" + display.Email_Address + "<br> <hr>" + display.Job_Title + "<br> <hr>" + display.Salary + "<br> <hr>";*/
 
+	}
 	</script>
 	</body>
 </html>
