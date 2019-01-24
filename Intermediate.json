@@ -1,12 +1,12 @@
-{
-	"Employees": [{
 
-		"Unique_ID":"000001",
-		"First_Name":"Jamal",
-		"Last_Name":"Ahmed",
-		"Email_Address":"ja@twelve.at",
+	var employees = [{
+
+		"Unique_ID": "000001",
+		"First_Name": "Jamal",
+		"Last_Name": "Ahmed",
+		"Email_Address": "ja@twelve.at",
 		"Job_Title": "Developer",
-		"Salary":"€2,500",
+		"Salary": "€2,500",
 	}, {
 
 		"Unique_ID": "000025",
@@ -18,9 +18,9 @@
 		}, {
 
 		"Unique_ID": "000641",
-		"First_Name":"Klaus",
-		"Last_Name":"Khai" ,
-		"Email_Address":"kk@twelve.at",
+		"First_Name": "Klaus",
+		"Last_Name": "Khai" ,
+		"Email_Address": "kk@twelve.at",
 		"Job_Title": "Secretary",
 		"Salary": "€1,500",
 		}, {
@@ -79,5 +79,5 @@
 		"Email_Address": "nd@twelve.at",
 		"Job_Title": "Marketing Director",
 		"Salary": "€5,000",
-		}]
-}
+		}];
+
