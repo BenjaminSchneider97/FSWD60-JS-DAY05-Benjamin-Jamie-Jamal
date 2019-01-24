@@ -12,13 +12,6 @@ function addItemToCart(i){
 	n[i].addEventListener("click", function(){addItemToCart(c)}, false);
 	}
 
-
-function removeElement(i) {
-var element = document.getElementById(i);
-element. parentNode.removeChild(i);
-}
-removeElement()
-
 function deletelist() {
 	var dl = document.getElementById("list");
 	while(dl.hasChildNodes()){ 
