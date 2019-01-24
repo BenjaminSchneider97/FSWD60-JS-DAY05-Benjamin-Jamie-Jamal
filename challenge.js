@@ -13,3 +13,8 @@ function addItemToCart(i){
 	}
 
 
+function removeElement(i) {
+
+var element = document. getElementById(i);
+element. parentNode. removeChild(i);
+}
