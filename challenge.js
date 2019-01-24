@@ -13,8 +13,12 @@ function addItemToCart(i){
 	}
 
 
-function removeElement(i) {
-
-var element = document. getElementById(i);
-element. parentNode. removeChild(i);
+function deletelist() {
+	var dl = document.getElementById("list");
+	while(dl.hasChildNodes()){ 
+		dl.removeChild(dl.firstChild);
+	}
 }
+
+	var m = document.getElementById("btn");
+	m.addEventListener("click", deletelist, false);
