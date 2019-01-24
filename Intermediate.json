@@ -1,31 +1,31 @@
 {
 	"Employees": [{
 
-		"Unique_ID":"000001"  ,
+		"Unique_ID":"000001",
 		"First_Name":"Jamal",
-		"Last_Name":"Ahmed" ,
-		"Email_Address":"jamalahmed@twelve.at" ,
+		"Last_Name":"Ahmed",
+		"Email_Address":"ja@twelve.at",
 		"Job_Title": "Developer",
-		"Salary":"€2,500" ,
+		"Salary":"€2,500",
 	}, {
 
-		"Unique_ID": "000025" ,
-		"First_Name": "Milan" ,
-		"Last_Name": "devos",
-		"Email_Address": "MD@twelve.at",
+		"Unique_ID": "000025",
+		"First_Name": "Milan",
+		"Last_Name": "Devos",
+		"Email_Address": "md@twelve.at",
 		"Job_Title": "Doctor",
 		"Salary": "€3,000",
 		}, {
 
-		"Unique_ID": "000641" ,
+		"Unique_ID": "000641",
 		"First_Name":"Klaus",
-		"Last_Name":"khai" ,
-		"Email_Address":"klauskhari@twelve.at",
+		"Last_Name":"Khai" ,
+		"Email_Address":"kk@twelve.at",
 		"Job_Title": "Secretary",
 		"Salary": "€1,500",
 		}, {
 
-		"Unique_ID": "857396"  ,
+		"Unique_ID": "857396",
 		"First_Name": "George" ,
 		"Last_Name":  "Adopolis",
 		"Email_Address": "ga@twelve.at",
@@ -33,51 +33,51 @@
 		"Salary": "€3,000",
 		}, {
 
-		"Unique_ID": "038168" ,
-		"First_Name": "Tom" ,
+		"Unique_ID": "038168",
+		"First_Name": "Tom",
 		"Last_Name": "Riddle",
 		"Email_Address": "tr@twelve.at",
 		"Job_Title": "HR Professional",
 		"Salary": "€4,000",
 		}, {
 
-		"Unique_ID": "927485" ,
-		"First_Name": "Ronda" ,
+		"Unique_ID": "927485",
+		"First_Name": "Ronda",
 		"Last_Name": "Rhymes",
 		"Email_Address": "rr@twelve.at",
 		"Job_Title": "Sales Operations Professional",
 		"Salary": "€3,500",
 		}, {
 
-		"Unique_ID":  ,
-		"First_Name":  ,
-		"Last_Name": ,
-		"Email_Address": ,
-		"Job_Title": ,
-		"Salary": ,
+		"Unique_ID": "123456",
+		"First_Name": "Harry",
+		"Last_Name": "Propper",
+		"Email_Address": "hp@twelve.at",
+		"Job_Title": "Janitor",
+		"Salary": "€2,000",
 		}, {
 
-		"Unique_ID":  ,
-		"First_Name":  ,
-		"Last_Name": ,
-		"Email_Address": ,
-		"Job_Title": ,
-		"Salary": ,
+		"Unique_ID": "846106",
+		"First_Name": "John",
+		"Last_Name": "Hope",
+		"Email_Address": "jh@twelve.at",
+		"Job_Title": "CEO",
+		"Salary": "€15,000",
 		}, {
 
-		"Unique_ID":  ,
-		"First_Name":  ,
-		"Last_Name": ,
-		"Email_Address": ,
-		"Job_Title": ,
-		"Salary": ,
+		"Unique_ID": "857100",
+		"First_Name": "Connor",
+		"Last_Name": "Nopad",
+		"Email_Address":"cn@twelve.at",
+		"Job_Title": "COO",
+		"Salary": "€12,000",
 		}, {
 
-		"Unique_ID":  ,
-		"First_Name":  ,
-		"Last_Name": ,
-		"Email_Address": ,
-		"Job_Title": ,
-		"Salary": ,
+		"Unique_ID": "091458",
+		"First_Name": "Norbert",
+		"Last_Name": "Dracjo",
+		"Email_Address": "nd@twelve.at",
+		"Job_Title": "Marketing Director",
+		"Salary": "€5,000",
 		}]
 }
