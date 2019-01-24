@@ -1,28 +1,28 @@
 {
 	"Employees": [{
 
-		"Unique_ID":  ,
-		"First_Name":  ,
-		"Last_Name": ,
-		"Email_Address": ,
-		"Job_Title": ,
-		"Salary": ,
+		"Unique_ID":"000001"  ,
+		"First_Name":"Jamal",
+		"Last_Name":"Ahmed" ,
+		"Email_Address":"jamalahmed@twelve.at" ,
+		"Job_Title": "Developer",
+		"Salary":"€2,500" ,
 	}, {
 
-		"Unique_ID":  ,
-		"First_Name":  ,
-		"Last_Name": ,
-		"Email_Address": ,
-		"Job_Title": ,
-		"Salary": ,
+		"Unique_ID": "000025" ,
+		"First_Name": "Milan" ,
+		"Last_Name": "devos",
+		"Email_Address": "MD@twelve.at",
+		"Job_Title": "Doctor",
+		"Salary": "€3,000",
 		}, {
 
-		"Unique_ID":  ,
-		"First_Name":  ,
-		"Last_Name": ,
-		"Email_Address": ,
-		"Job_Title": ,
-		"Salary": ,
+		"Unique_ID": "000641" ,
+		"First_Name":"Klaus",
+		"Last_Name":"khai" ,
+		"Email_Address":"klauskhari@twelve.at",
+		"Job_Title": "Secretary",
+		"Salary": "€1,500",
 		}, {
 
 		"Unique_ID":  ,
