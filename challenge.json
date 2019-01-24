@@ -1,0 +1,57 @@
+{
+
+   "theshop": [{
+
+       "prodid": "01",
+
+       "product": "shoes",
+
+       "producttype": "footwear",
+
+       "productprice": "€100"
+
+   }, {
+      "prodid": "02",
+
+       "product": "shirts",
+
+       "producttype": "clothing",
+
+       "productprice": "€40"
+
+ }, {
+      "prodid": "03",
+
+       "product": "caps",
+
+       "producttype": "headgear",
+
+       "productprice": "€15"
+
+ }, {
+      "prodid": "04",
+
+       "product": "jacket",
+
+       "producttype": "clothing",
+
+       "productprice": "€95"
+
+   }, {
+      "prodid": "05",
+
+       "product": "jeans",
+
+       "producttype": "clothing",
+
+       "productprice": "€70"     
+ }, {
+      "prodid": "06",
+
+       "product": "socks",
+
+       "producttype": "clothing",
+
+       "productprice": "€10"
+   },]
+ }
